@@ -1,17 +1,10 @@
-* tasks
-** DONE @education @geekbrains @pythondata watch webinars 5 & 6
-** DONE @education @geekbrains @pythondata complete the tasks to 5_6
-   SCHEDULED: <2019-03-02 Сб>
-** TODO @actions collect the dry cleaner 
+* TODO @actions collect the dry cleaner 
+
+*TODO @cost_design @audit @monitoring
+** TODO @cost @design @audit @monitoring письмо  
+    SCHEDULED: <2019-03-04 Пн>
+** TODO @cost @design @audit @monitoring позвонить
+   DEADLINE: <2019-03-05 Вт>
+
 
 #+TAGS: weekend
-
-
-
-**tags:
-***C c C c
-**** test phone                                                        :HOME:
-
-**tasks:
-***C c C t
-**** TODO test task 
