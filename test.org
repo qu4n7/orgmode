@@ -1,10 +1,11 @@
-* TODO @actions collect the dry cleaner 
+* TODO @actions collect the dry cleaner                             :weekend:
+* TODO @actions meditate for 10 mins                                :evening:
 
-*TODO @cost_design @audit @monitoring
-** TODO @cost @design @audit @monitoring письмо  
-    SCHEDULED: <2019-03-04 Пн>
-** TODO @cost @design @audit @monitoring позвонить
+
+* TODO @cost @design @audit @monitoring письмо  
+    SCHEDULED: <2019-03-04 П>
+* TODO @cost @design @audit @monitoring позвонить
    DEADLINE: <2019-03-05 Вт>
 
 
-#+TAGS: weekend
+#+TAGS: weekend, evening
